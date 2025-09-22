@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GrundernaOOP": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
