@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //  Create new circle
+            // Create new circle
             Circle circleOne = new Circle(5);
             Circle circleTwo = new Circle(6);
 
