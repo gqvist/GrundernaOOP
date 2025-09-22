@@ -8,7 +8,7 @@
             Circle circleOne = new Circle(5);
             Circle circleTwo = new Circle(6);
 
-            //  Create new triangle
+            // Create new triangle
             Triangle triangleOne = new Triangle(4, 5);
             Triangle triangleTwo = new Triangle(6, 7);
 
